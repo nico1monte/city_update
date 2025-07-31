@@ -10,6 +10,7 @@ City Update is a project from Informatioa that it's a videogame which simulates 
     <img alt="City Update Presentation Short Image" src="./readme_pictures/short-city_update_presentation.PNG">
   </picture>
 </div>
+
 [Click to watch!](https://www.youtube.com/shorts/-fL3rMuZjq0)
 
 Creator: [@nico1monte](https://github.com/nico1monte)
